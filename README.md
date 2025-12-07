@@ -1,4 +1,4 @@
-# 📘 TP12 – Gestion des fichiers en Java
+#  TP12 – Gestion des fichiers en Java
 
 Ce projet pédagogique présente deux TP liés à la **gestion des fichiers en Java** :
 
@@ -7,7 +7,7 @@ Ce projet pédagogique présente deux TP liés à la **gestion des fichiers en J
 
 ---
 
-## 📁 Structure des projets
+##  Structure des projets
 
 ### Exercice 1
 TPFiles/
@@ -42,6 +42,7 @@ Exercice2/
 - `CsvParser.java` – lecture et écriture CSV
 - `ObjectSerializer.java` – sérialisation d’objets
 - `Main.java` – tests et exécution
+<img width="658" height="446" alt="image" src="https://github.com/user-attachments/assets/981a86d0-8708-4ee1-a86f-bd1d260e2a84" />
 
 ---
 
@@ -56,6 +57,7 @@ Exercice2/
 - `CsvWriter.java` – génération CSV
 - `HtmlGenerator.java` – génération HTML
 - `Main.java` – tests et exécution
+<img width="645" height="384" alt="image" src="https://github.com/user-attachments/assets/274a2c96-3554-4f65-bc71-a4fbb85c682b" />
 
 ---
 ## Fichiers générés après exécution
